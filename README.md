@@ -58,5 +58,5 @@ new_bmi_calculator/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/username/bmi_calculator.git
+git clone https://github.com/khaliqsarwari2-bit/bmi_calculator.git
 cd bmi_calculator
