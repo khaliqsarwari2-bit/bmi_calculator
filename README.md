@@ -17,6 +17,12 @@ A simple and beautiful app for calculating Body Mass Index (BMI) built with **Fl
 - **Smooth navigation** between input page and results
 
 
+📱 App Preview
+
+| Input Page | Result Page |
+|:---:|:---:|
+| ![Data Input](screenshots/input_page.png) | ![BMI Result](screenshots/result_page.png)
+
 ## 🛠 Technologies
 
 - **Flutter** - Core development framework
