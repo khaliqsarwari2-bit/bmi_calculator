@@ -28,23 +28,6 @@ A simple and beautiful app for calculating Body Mass Index (BMI) built with **Fl
 - **Flutter** - Core development framework
 - **Dart** - Programming language
 
-## 📂 Project structure
-
-new_bmi_calculator/
-├── lib/
-│ ├── components/
-│ │ ├── reusable_card.dart
-│ │ ├── icon_content.dart
-│ │ └── round_icon_button.dart
-│ ├── screens/
-│ │ ├── input_page.dart
-│ │ └── result_page.dart
-│ ├── calculator_brain.dart
-│ ├── constants.dart
-│ └── main.dart
-├── pubspec.yaml
-└── README.md
-
 ## 🚀 How to run
 
 ### Prerequisites
