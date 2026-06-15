@@ -1,5 +1,9 @@
 # BMI Calculator
 
+
+[![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
+[![Dart Version](https://img.shields.io/badge/Dart-3.x-blue.svg)](https://dart.dev)
+
 A simple and beautiful app for calculating Body Mass Index (BMI) built with **Flutter**. This app calculates BMI and provides appropriate health interpretation by receiving the user's height, weight, age and gender.
 
 ## ✨ Features
